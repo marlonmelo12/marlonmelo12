@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I'm Marlon Melo, Information Systems student and Full Stack Developer. Enthusiastic about cybersecurity and data engineering.
+I'm Marlon Melo, Information Systems student and Full Stack Developer. <br/>Enthusiastic about cybersecurity and data engineering.
 
 ## About Me
-Freelance worker
+Freelance worker <br/>
 Reader and writer of tech articles
 
 ## Techs and Tools
