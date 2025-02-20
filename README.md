@@ -18,6 +18,10 @@ Reader and writer of tech articles
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 </p>
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonmelo12&layout=compact&hide=css&theme=dark)
+
+
+
 ## Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/marlon-melo-44a8b0210/" target="_blank">
