@@ -3,8 +3,7 @@
 I'm Marlon Melo, Information Systems student, Full Stack Developer and Data Science research.
 
 ## About Me
-Freelance worker <br/>
-Reader and writer of tech articles
+Data Enginer and Web Developes, research in ML, IA and Data Science.
 
 ## Techs and Tools
 <p align="left">
