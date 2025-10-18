@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I'm Marlon Melo, Information Systems student, Full Stack Developer and Data Science research.
+I'm Marlon Melo, Information Systems student.
 
 ## About Me
-Data Enginer and Web Developes, research in ML, IA and Data Science.
+Data Enginer and Web Developer, researcher in ML, IA and Data Science.
 
 ## Techs and Tools
 <p align="left">
